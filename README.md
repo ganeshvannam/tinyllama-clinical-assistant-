@@ -1,9 +1,11 @@
 # AI-Driven Personalized Health Assistant
 
 ## 🧠 Project Overview
-This is our final project for the SAT5144 – Artificial Intelligence in Healthcare course. We built a real-time, voice-based health assistant that can understand user queries, consider patient-specific data, and respond in natural language using a lightweight AI model.
+This project is a real-time, voice-enabled clinical assistant designed to deliver personalized health responses. It listens to a user’s question, understands their health context using structured patient data, and responds in natural language using a lightweight language model (TinyLLaMA).
 
-Our goal was to create a system that feels like you're talking to a smart clinical assistant — but without needing cloud or GPU support.
+The assistant mimics a conversation with a human healthcare provider by combining six simulated patient datasets (EHR-like) with voice recognition and AI-generated replies. It works entirely on standard machines without requiring cloud services or GPU acceleration, making it highly accessible.
+
+Our goal was to create an intelligent assistant that feels interactive, speaks clearly, and understands individual health history — all while staying fast, lightweight, and user-friendly.
 
 ## 👥 Team Members
 - Ganesh Vannam  
