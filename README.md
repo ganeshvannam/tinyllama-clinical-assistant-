@@ -27,8 +27,8 @@ To design a lightweight, intelligent health assistant that:
 - `clinical_assistant.pdf` – Slides used for the project presentation  
 - `video_link.txt` – YouTube link to our recorded demo  
 - `Datasets.zip` – Patient health data used to personalize responses  
-- `Progress Report 1.docx` – Initial proposal and planning  
-- `Progress Report 2.docx` – Mid-project update with implementation steps
+- `Progress Report 1.pdf` – Initial proposal and planning  
+- `Progress Report 2.pdf` – Mid-project update with implementation steps
 
 ## 📊 Dataset Description
 We created 6 datasets to simulate real patient records:
@@ -42,7 +42,7 @@ We created 6 datasets to simulate real patient records:
 These datasets helped the assistant provide personalized answers.
 
 ## 📹 Demo Video
-🎥 YouTube link: **[INSERT_YOUTUBE_LINK_HERE]**
+🎥 YouTube link: https://www.youtube.com/channel/UCyAsWmyMVqXOSt82ZWxXIIA
 
 ## 🚀 How to Run
 1. Install Python libraries:  
