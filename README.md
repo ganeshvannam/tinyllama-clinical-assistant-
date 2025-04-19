@@ -41,7 +41,7 @@ We created 6 datasets to simulate real patient records:
 
 These datasets helped the assistant provide personalized answers.
 
-## 📹 Demo Video
+## 📹 Presentation Video
 🎥 YouTube link: https://www.youtube.com/channel/UCyAsWmyMVqXOSt82ZWxXIIA
 
 ## 🚀 How to Run
