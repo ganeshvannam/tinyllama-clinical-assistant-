@@ -24,7 +24,7 @@ To design a lightweight, intelligent health assistant that:
 
 ## 📁 Files in This Repository
 - `Clinical Assistant.ipynb` – Final code notebook  
-- `clinical_assistant.pdf` – Slides used for the project presentation  
+- `Final_Presentaion.pdf` – Slides used for the project presentation  
 - `video_link.txt` – YouTube link to our recorded demo  
 - `Datasets.zip` – Patient health data used to personalize responses  
 - `Progress Report 1.pdf` – Initial proposal and planning  
