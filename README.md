@@ -43,8 +43,6 @@ We created 6 datasets to simulate real patient records:
 
 These datasets helped the assistant provide personalized answers.
 
-## 📹 Presentation Video
-🎥 YouTube link: https://youtu.be/0j4aLRwGb6g
 ## 🚀 How to Run
 1. Install Python libraries:  
    `pip install transformers gtts speechrecognition langdetect`
